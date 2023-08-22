@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Products application</string>
+    <string name="base_url">https://fakestoreapi.com/</string>
+    <string name="prod_price">₹699</string>
+    <string name="add_button_text">Add +</string>
+    <string name="product_price">₹%1$f</string>
+</resources>
